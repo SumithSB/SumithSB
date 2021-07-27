@@ -1,8 +1,8 @@
 # Hi I'm Sumith 👋
 
 - 🔭  I’m currently working on Flutter and Nodejs
-- 🌱  I’m currently learning Swift , Java and Nodejs
-- 🪖  I use all the time : Flutter, MySql,MongoDB and Nodejs
+- 🌱  I’m currently learning Swift and Java 
+- 🪖  I use all the time : Flutter, MySql, MongoDB, PostgreSql, MySql and Nodejs
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
