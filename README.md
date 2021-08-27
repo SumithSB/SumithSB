@@ -1,6 +1,6 @@
 # Hi I'm Sumith 👋
 
-- 🔭  I’m currently working on Flutter and Nodejs
+- 🔭  I’m currently working on Flutter,AWS,Elastic Stack,Python and Nodejs
 - 🌱  I’m currently learning Swift and Java 
 - 🪖  I use all the time : Flutter, MySql, MongoDB, PostgreSql, MySql and Nodejs
 
