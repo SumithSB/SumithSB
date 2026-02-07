@@ -2,7 +2,7 @@
 
 # Hi, I'm Sumith Sadanand Bhandari 👋
 
-**Backend Engineer · Platform Engineer · Security Automation · AI-Driven Systems**
+**Software Engineer · Cloud · AI · Building at scale**
 
 *Leicester, UK*
 
@@ -16,12 +16,11 @@
 
 ## 🚀 About Me
 
-I'm a **security-focused backend and platform engineer** with **4+ years** of hands-on experience across product engineering, startups, and remote cybersecurity consulting.
+I'm a **software engineer** with **4+ years** of experience across product engineering, startups, and consulting — building systems that are secure, scalable, and reliable.
 
-I build **secure backend systems**, **cloud-native architectures**, and **security automation tooling** — with Python and Node.js on AWS, and a strong focus on **DevSecOps**, access control, and infrastructure security. I've also built **AI-driven tooling** (RAG pipelines, agentic workflows) to enhance security analysis and developer productivity.
+I work with **Python** and **Node.js** on **AWS**, and have shipped **cloud-native** systems, **security automation**, and **AI-driven tooling** (RAG, agentic workflows). I care about **DevSecOps**, clean architecture, and infrastructure that stays up.
 
-**Currently:** Completing **MSc in Advanced Computer Science** at the University of Leicester (graduating July 2026).  
-**Seeking:** Backend, platform, security, or DevOps engineering roles — building reliable, secure systems at scale.
+**Currently:** Completing **MSc in Advanced Computer Science** at the University of Leicester (graduating July 2026). Open to **new opportunities** and collaboration.
 
 *Track record: 99.99% uptime for distributed systems · Co-founded quick-commerce startup · Hackathon winner (4,500+ teams)*
 
@@ -62,13 +61,13 @@ I build **secure backend systems**, **cloud-native architectures**, and **securi
 
 ## 💼 Experience Highlights
 
-| Role | Where | Focus |
-|------|--------|--------|
-| **Cybersecurity Consultant** | Visiminds Technologies | Backend for IVY security tool, OWASP parsers, cloud deployment |
-| **Platform / Software Engineering Consultant** | TechMachinery Labs | Agentic AI & LLM systems, Flutter apps, FastAPI/Flask, PostgreSQL/MongoDB/Docker |
-| **Co-Founder & Engineering Lead** | Drogher Technologies | Quick-commerce platform, microservices, CI/CD (Jenkins), 99.99% uptime |
-| **SDE-1** | TechMachinery Labs | Cross-cloud sync, payment gateways, circular economy & cybersecurity solutions |
-| **Backend / Full Stack** | Freelance & DocTrue | MVPs, scaling, cloud infra |
+| Where | Focus |
+|--------|--------|
+| **Visiminds Technologies** | IVY security tool, OWASP parsers, cloud deployment |
+| **TechMachinery Labs** | Agentic AI & LLM systems, Flutter apps, FastAPI/Flask, PostgreSQL/MongoDB/Docker |
+| **Drogher Technologies** | Quick-commerce platform, microservices, 99.99% uptime (Co-Founder) |
+| **TechMachinery Labs** | Cross-cloud sync, payment gateways, circular economy & security solutions |
+| **Freelance & DocTrue** | MVPs, scaling, cloud infra |
 
 ---
 
@@ -135,7 +134,7 @@ I build **secure backend systems**, **cloud-native architectures**, and **securi
 - **LinkedIn:** [Sumith Sadanand Bhandari](https://www.linkedin.com/in/sumith-sadanand-bhandari-006224194)
 - **Email:** [sumithsbhandari@gmail.com](mailto:sumithsbhandari@gmail.com)
 
-Open to collaboration and backend, platform, security, or DevOps roles — feel free to reach out.
+Open to collaboration and new opportunities — feel free to reach out.
 
 <div align="center">
 
