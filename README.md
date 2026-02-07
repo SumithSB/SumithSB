@@ -108,7 +108,7 @@ I work with **Python** and **Node.js** on **AWS**, and have shipped **cloud-nati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SumithSB/SumithSB/main/assets/github-stats.svg" alt="GitHub Stats" width="100%" />
+![GitHub Stats](assets/github-stats.svg)
 
 </div>
 
