@@ -4,7 +4,7 @@
 
 **Software Engineer · Cloud · AI · Building at scale**
 
-*Leicester, UK*
+*London, UK*
 
 [![GitHub](https://img.shields.io/badge/GitHub-SumithSB-181717?style=for-the-badge&logo=github)](https://github.com/SumithSB)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumith-sadanand-bhandari-006224194)
