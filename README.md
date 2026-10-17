@@ -1,131 +1,33 @@
-<div align="center">
+# Sumith Sadanand Bhandari
 
-# Hi, I'm Sumith Sadanand Bhandari 👋
+AI Software Engineer in London. I build production AI agents and the backend systems around them, in Python and TypeScript.
 
-**Software Engineer · Cloud · AI · Building at scale**
+[Portfolio](https://sumithsb.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/sumith-sadanand-bhandari) · [Email](mailto:sumithsbhandari@gmail.com)
 
-*London, UK*
+## What I do
 
-[![GitHub](https://img.shields.io/badge/GitHub-SumithSB-181717?style=for-the-badge&logo=github)](https://github.com/SumithSB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumith-sadanand-bhandari-006224194)
-[![Email](https://img.shields.io/badge/Email-sumithsbhandari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithsbhandari@gmail.com)
+I have 4+ years of backend and AI agent work: multi-agent workflows, RAG and document extraction pipelines, LLM integrations (Anthropic, OpenAI) and the APIs, databases and deployments that keep them running.
 
-</div>
+- **Goodspeed Studio** (AI Engineer, Jul 2026 to present, contract then freelance). I build and run production AI agents: a Slack agent used daily by 16+ people, with multi-tenant memory, human-review steps and integrations into business tools, and a website chat agent that I took through a GDPR, PECR and EU AI Act review before launch.
+- **Visiminds Technologies** (Software Engineer, 2025). Built a VAPT automation platform in Python, Flask and MongoDB that runs 14 security tools and writes the client report. A job queue with 20 concurrent workers cut scan and report time from about 4 hours to under 15 minutes.
+- **TechMachinery** (Software Engineer, 2021 to 2024). Led backend work on Pluto, a TechMachinery platform where engineers query and design heat exchanger systems in plain language. Multi-agent system on Strands (AWS) with pgvector retrieval; document parsing reached 94% extraction accuracy on a 50-document test set.
 
----
+I hold an MSc in Advanced Computer Science (Distinction) from the University of Leicester.
 
-## 🚀 About Me
+I'm open to AI Software Engineer and Forward Deployed Engineer roles in London, contract or permanent.
 
-I'm a **software engineer** with **4+ years** of experience across product engineering, startups, and consulting — building systems that are secure, scalable, and reliable.
+## Projects
 
-I work with **Python** and **Node.js** on **AWS**, and have shipped **cloud-native** systems, **security automation**, and **AI-driven tooling** (RAG, agentic workflows). I care about **DevSecOps**, clean architecture, and infrastructure that stays up.
+**[Claude Anchor](https://github.com/SumithSB/claude-anchor)**: a desktop app that routes Claude Code to the right Claude account for each project folder. It tracks the 5-hour and weekly rate limits per account, moves to an account with headroom before a session stalls, and continues a conversation on another account with its history. Swift menu bar app on macOS, Rust/Tauri tray app on Windows and Linux, plus an `anchor` CLI. Install with Homebrew or a checksum-verified script. MIT, no telemetry.
 
-**Currently:** Completing **MSc in Advanced Computer Science** at the University of Leicester (graduating July 2026). Open to **new opportunities** and collaboration.
+**[Brainvault](https://github.com/SumithSB/brainvault)** ([PyPI](https://pypi.org/project/brainvault/)): persistent local memory for AI coding agents such as Claude Code and Cursor. One SQLite vault, 12 MCP tools, session hooks, FTS5 search and optional semantic search with fastembed and sqlite-vec. `pip install brainvault`.
 
-*Track record: 99.99% uptime for distributed systems · Co-founded quick-commerce startup · Hackathon winner (4,500+ teams)*
+**Fashion AI** (MSc dissertation, Best Technical Project 2026): a mobile styling app built with Flutter, FastAPI and pgvector. It includes skin tone analysis, a recommender over a 59,447-product catalogue and a RAG styling chat (MRR@6 of 0.91 over 53 evaluation queries).
 
----
+## Stack
 
-## 🛠️ Tech Stack
-
-### Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### AI & ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Vector_DBs-FF6F00?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=flat-square)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-### Databases & Security
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC_Security-4A90D9?style=flat-square)
-
----
-
-## 💼 Experience Highlights
-
-| Where | Focus |
-|--------|--------|
-| **Visiminds Technologies** | IVY security tool, OWASP parsers, cloud deployment |
-| **TechMachinery Labs** | Agentic AI & LLM systems, Flutter apps, FastAPI/Flask, PostgreSQL/MongoDB/Docker |
-| **Drogher Technologies** | Quick-commerce platform, microservices, 99.99% uptime (Co-Founder) |
-| **TechMachinery Labs** | Cross-cloud sync, payment gateways, circular economy & security solutions |
-| **Freelance & DocTrue** | MVPs, scaling, cloud infra |
-
----
-
-## 🎓 Education
-
-- **MSc Advanced Computer Science** — University of Leicester, UK *(Jan 2025 – Jul 2026)*  
-  *Dissertation: AI-Powered Fashion System*
-- **B.E. Information Science & Engineering** — Ramaiah Institute of Technology, Bengaluru *(CGPA: 8.49/10)*
-
----
-
-## 🔑 Key Projects
-
-- **IVY – Security Automation Platform** · Python, FastAPI, Docker, OWASP  
-  End-to-end security automation: multi-tool integration, AI-driven analysis, automated reporting, Grafana monitoring.
-
-- **Agentic AI & LLM Systems** · LangChain, RAG, Vector DBs, FastAPI  
-  AI agent frameworks, RAG pipelines, production backends for conversational AI.
-
-- **High-Availability Distributed System** · AWS, Docker, PostgreSQL, Grafana  
-  Cloud infra with 99.99% uptime, failover, disaster recovery, zero-downtime deployments.
-
-- **GAU – Circular Economy Platform** · Node.js, TypeScript, MongoDB, AWS, Jenkins  
-  Scalable backend, S3, PayU, RBAC, CI/CD automation.
-
----
-
-## 🏆 Achievements
-
-- **Winner, hackCOVID by HackerEarth (2020)** — First place among 4,500+ teams
-- **Winner, OneHack 2020** — Team India international representation
-- **Student Advisory Board Member** — Ramaiah Institute of Technology
-- **Certifications:** Mobile app development internship, Python (Basics)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](assets/github-stats.svg)
-
-</div>
-
-*Stats are generated by [GitHub Actions](.github/workflows/readme-stats.yml) and stored in this repo so they always load.*
-
----
-
-## 📫 Let's Connect
-
-- **GitHub:** [@SumithSB](https://github.com/SumithSB)
-- **LinkedIn:** [Sumith Sadanand Bhandari](https://www.linkedin.com/in/sumith-sadanand-bhandari-006224194)
-- **Email:** [sumithsbhandari@gmail.com](mailto:sumithsbhandari@gmail.com)
-
-Open to collaboration and new opportunities — feel free to reach out.
-
-<div align="center">
-
-*Thanks for stopping by — have a great day!* ✨
-
-</div>
+- **Languages:** Python, TypeScript, SQL, Node.js, Dart (Flutter)
+- **AI:** Anthropic and OpenAI APIs, MCP, multi-agent orchestration (Strands), tool-calling agents, RAG, embeddings, prompt caching, retrieval evaluation
+- **Backend:** FastAPI, Flask, Express.js, REST, webhooks, WebSockets
+- **Data:** PostgreSQL, pgvector, SQLite, Supabase, MongoDB, Redis
+- **Infra:** AWS (EC2, S3, Lambda, IAM, CloudWatch), GCP, Docker, GitHub Actions, Railway, Vercel
